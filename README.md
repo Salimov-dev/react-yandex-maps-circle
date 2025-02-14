@@ -1,8 +1,14 @@
-Стартовый проект для обучения с @pbe/react-yandex-maps
-В нем реализована карта Яндекс, определяются адрес и координаты кликом по карте
+Продолжаем учиться работать с @pbe/react-yandex-maps
+В этом проекте учимся работать с гео-объектом Circle и определять, входит ли метка на карте в зону доставки
 
-Как был разработан проект можно посмотреть в видео: https://youtu.be/E0Tm4GuGokg
+Как был разработан стартовый проект можно посмотреть в видео: https://youtu.be/E0Tm4GuGokg
 
-![image](https://github.com/user-attachments/assets/b668dc10-7b57-4bf0-b7d7-8eb18f7685d1)
+Стартовый проект для работы с картами:
+https://github.com/Salimov-dev/yandex-maps-start
+
+![image](https://github.com/user-attachments/assets/69381fc5-d5c8-43bb-8f88-f7ef62db6c18)
+
+![image](https://github.com/user-attachments/assets/388e53a8-fb43-4330-bbfa-1c6ea7cde6cb)
+
 
 
