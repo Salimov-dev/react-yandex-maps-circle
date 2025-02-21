@@ -3,6 +3,7 @@
 
 Как был разработан стартовый проект можно посмотреть в видео: https://youtu.be/E0Tm4GuGokg
 
+Видео на ютуб: https://youtu.be/tO55KtcB60k  
 Стартовый проект для работы с картами:
 https://github.com/Salimov-dev/yandex-maps-start
 
